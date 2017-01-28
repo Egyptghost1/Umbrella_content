@@ -37,7 +37,7 @@ security of your mobile phone, go the **Mobile Phone Lesson.**
     forensic analysis.
 -   **Encryption:**Some phones have encryption options available ? these
     should be applied. If you have an Android phone this can be done
-    in Settings -&gt; Personal -&gt; Security -&gt; Encryption. The
+    in Settings -&amp;gt; Personal -&amp;gt; Security -&amp;gt; Encryption. The
     Electronic Frontier Foundation has a guide on how to
     encrypt iPhones.
 -   **Download secure apps:** Make sure you and your colleagues have
@@ -73,7 +73,7 @@ to let them know you have been arrested.
 
 If you have an Android phone an easier way of doing this is by using an
 app, Panic Button, which turns your mobile phone into a secret alarm for
-when you're in trouble. When triggered, it sends alerts every 5 minutes
+when you&#39;re in trouble. When triggered, it sends alerts every 5 minutes
 with your location to your chosen contacts. This is a very useful tool
 to have when going to a protest where trouble could occur and we
 recommend you download it before you go.
@@ -147,4 +147,3 @@ journalist.
 ### FURTHER READING
 
 -   EFF ? Attending protests
-
